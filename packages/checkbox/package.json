@@ -1,5 +1,5 @@
 {
-    "name": "@components/checkbox",
+    "name": "checkbox",
     "version": "1.0.0",
     "main": "index.ts"
 }
